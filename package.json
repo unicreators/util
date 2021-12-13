@@ -1,6 +1,6 @@
 {
   "name": "@unicreators/util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple Javascript utility libraries.",
   "main": "dist/index.js",
   "author": "yichen",
